@@ -16,5 +16,50 @@ https://medium.com/@varun.tyagi83/house-price-prediction-with-machine-learning-d
 # Stock Price Prediction
 https://medium.com/@varun.tyagi83/stock-price-prediction-with-machine-learning-02c9cce35aab
 
-# Making Movie Recommendations
+# Making Movie Recommendations with Reinforcement Learning and Transformers Using T5
 https://medium.com/@varun.tyagi83/making-movie-recommendations-with-reinforcement-learning-and-transformers-using-t5-1e62b7b877ca
+
+# Loan Approval
+https://medium.com/@varun.tyagi83/revealing-the-insights-into-bank-loan-approvals-an-analysis-through-machine-learning-using-bert-b57e5dfe21d3
+
+# Emotion Detection
+https://medium.com/@varun.tyagi83/emotion-detection-using-machine-learning-052b06fbed8b
+
+# Object Detection
+https://medium.com/@varun.tyagi83/a-comprehensive-guide-on-object-detection-with-tensorflow-533968274015
+
+# Lead Prioritisation
+https://medium.com/operations-research-bit/enhancing-efficiency-through-lead-prioritisation-in-online-moving-services-38e14604b384
+
+# Customer Segmentation
+https://medium.com/@varun.tyagi83/customer-segmentation-for-e-commerce-fitness-food-company-a-comprehensive-guide-6b45283e9684
+
+# Weather Prediction
+https://medium.com/@varun.tyagi83/a-deep-dive-into-building-a-weather-prediction-model-using-neural-networks-5d0fe7fd149f
+
+# Sentiment Analysis
+https://medium.com/@varun.tyagi83/sentiment-analysis-navigating-the-landscape-of-emotions-in-customer-feedback-3a55a60405ac
+
+# Discount Optimisation
+https://medium.com/@varun.tyagi83/discount-optimisation-model-system-for-an-e-commerce-company-f400e9102214
+
+# Simplifying Logistics with Python: A Practical Guide to Bundling Moves
+https://medium.com/operations-research-bit/simplifying-logistics-with-python-a-practical-guide-to-bundling-moves-2f0d937dfb19
+
+# Navigating the Seas of Data
+https://medium.com/@varun.tyagi83/navigating-the-seas-of-data-a-tale-of-building-quality-gates-in-the-data-modeling-ship-cf181fb51866
+
+# A Guide to Building a CAPTCHA Verification System in Python
+https://medium.com/@varun.tyagi83/a-guide-to-building-a-captcha-verification-system-in-python-1a5c62922674
+
+# Fraud Detection
+https://medium.com/@varun.tyagi83/safeguarding-the-jackpot-building-a-robust-fraud-detection-model-for-online-lotteries-using-24bc144e946c
+
+# Image Recognition Using CNN
+https://medium.com/@varun.tyagi83/unraveling-the-mysteries-of-image-recognition-with-convolutional-neural-networks-cnn-in-python-83b3e5b75ef3
+
+# Item-Based Personalised Recommender System With BallTree
+https://medium.com/@varun.tyagi83/unveiling-the-magic-building-a-personalised-recommender-system-with-balltree-c4c3152127d1
+
+# Using Machine Learning With OpenCV To Improve Supply Chain Efficiency
+https://medium.com/@varun.tyagi83/using-machine-learning-opencv-to-improve-supply-chain-efficiency-aaf870693f76
