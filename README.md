@@ -1,3 +1,6 @@
+# Credit Card Fraud Detection
+https://medium.com/@varun.tyagi83/detecting-credit-card-fraud-using-machine-learning-545e372816a4
+
 # Crop Yield
 https://medium.com/@varun.tyagi83/introduction-of-machine-learning-to-crop-yield-in-farming-0405ab3a8e60
 
