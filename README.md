@@ -1,3 +1,6 @@
+# Predictive LTV in Mobile Gaming
+https://medium.com/@varun.tyagi83/mastering-predictive-ltv-in-mobile-gaming-a-comprehensive-guide-c7f683d09b71
+
 # Credit Card Fraud Detection
 https://medium.com/@varun.tyagi83/detecting-credit-card-fraud-using-machine-learning-545e372816a4
 
