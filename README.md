@@ -1,5 +1,5 @@
 # Churn prediction
-https://medium.com/@varun.tyagi83/unveiling-the-power-of-machine-learning-in-churn-prediction-re-engaging-customers-before-they-fcde96061e70
+https://medium.com/operations-research-bit/unveiling-the-power-of-machine-learning-in-churn-prediction-re-engaging-customers-before-they-fcde96061e70
 
 # Accelerated A/B testing
 https://medium.com/operations-research-bit/accelerating-decision-making-in-mobile-gaming-a-b-testing-meets-machine-learning-a3d5eb958fd0
