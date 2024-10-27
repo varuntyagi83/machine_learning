@@ -1,5 +1,14 @@
+# Churn prediction
+https://medium.com/@varun.tyagi83/unveiling-the-power-of-machine-learning-in-churn-prediction-re-engaging-customers-before-they-fcde96061e70
+
+# Accelerated A/B testing
+https://medium.com/operations-research-bit/accelerating-decision-making-in-mobile-gaming-a-b-testing-meets-machine-learning-a3d5eb958fd0
+
 # Predictive LTV in Mobile Gaming
-https://medium.com/@varun.tyagi83/mastering-predictive-ltv-in-mobile-gaming-a-comprehensive-guide-c7f683d09b71
+https://medium.com/operations-research-bit/mastering-predictive-ltv-in-mobile-gaming-a-comprehensive-guide-c7f683d09b71
+
+# A/B testing
+https://medium.com/@varun.tyagi83/understanding-a-b-testing-a-data-driven-approach-for-product-optimization-fb928bf5aa0a
 
 # Credit Card Fraud Detection
 https://medium.com/@varun.tyagi83/detecting-credit-card-fraud-using-machine-learning-545e372816a4
